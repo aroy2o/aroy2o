@@ -2,7 +2,7 @@
 
 # Abhijeet Roy
 
-![My GIF](https://raw.githubusercontent.com/rudrabarad/Gifs/main/your-selected-gif.gif)
+![My GIF](https://shorturl.at/LbE3i)
 
 ## About Me
 Hello! I'm Abhijeet Roy, a passionate front-end developer currently delving into backend technologies to become a full stack web developer. I am in my second year of BCA at Royal Global University. When I'm not coding, you can find me playing or watching cricket, which is my favorite hobby.
