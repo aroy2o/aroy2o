@@ -1,4 +1,4 @@
-![Header](https://github.com/abhijeetroyyy/banner-image-url)
+![Header](https://media.licdn.com/dms/image/D5616AQGL0SEH2PfCAA/profile-displaybackgroundimage-shrink_350_1400/0/1710060913455?e=1726099200&v=beta&t=VzNPDvHi905pP7v2ofd3MJPRDGoPbYmoOFnkNKBXouQ)
 
 # Abhijeet Roy
 
