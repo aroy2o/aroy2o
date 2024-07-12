@@ -19,9 +19,9 @@ Hello! I'm Abhijeet Roy, a passionate front-end developer currently delving into
 - **[Full Stack Web Development](https://github.com/abhijeetroyyy/Full-Stack-Web-Development)**: A Journey of 120 Days of becoming a full stack web developer
 
 ## Connect with Me
-- **LinkedIn**: [Abhijeet Roy]([https://www.linkedin.com/in/abhijeet-roy-104496240](https://www.linkedin.com/in/abhijeet-roy123/))
-- **Twitter**: [@royabhijeet2107](https://twitter.com/royabhijeet2107)
-- **Kaggle**: [Abhijeet Roy](https://www.kaggle.com/abhijeetroy2107)
+- **LinkedIn**: [Abhijeet Roy](https://www.linkedin.com/in/abhijeet-roy123/)
+- **Twitter**: [@AbhijeetRo67921](https://x.com/AbhijeetRo67921)
+- **Instagram**: [Abhijeet Roy](https://www.instagram.com/_abhijeet__roy/)
 
 ## Hobbies
 Apart from coding, I love playing and watching cricket.
