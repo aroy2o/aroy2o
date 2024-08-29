@@ -38,7 +38,7 @@ Hello! I'm Abhijeet Roy, a passionate front-end developer currently delving into
 
 ## Connect with Me
 - **LinkedIn**: [Abhijeet Roy](https://www.linkedin.com/in/abhijeet-roy123/)
-- **Twitter**: [@AbhijeetRo67921](https://x.com/aroy_2o)
+- **Twitter**: [@aroy_2o](https://x.com/aroy_2o)
 - **Instagram**: [Abhijeet Roy](https://www.instagram.com/_abhijeet__roy/)
 
 ## Hobbies
