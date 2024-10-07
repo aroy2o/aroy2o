@@ -36,9 +36,9 @@ Hello! I'm Abhijeet Roy, a passionate front-end developer currently delving into
 - **[TeachersReward](https://github.com/abhijeetroyyy/TeachersReward)**: A blockchain-based project to reward teachers with tokens and manage their balances.
 
 ## Connect with Me
-- **LinkedIn**: [Abhijeet Roy](https://www.linkedin.com/in/abhijeet-roy123/)
+- **LinkedIn**: [Abhijeet Roy](https://www.linkedin.com/in/aroy2o/)
 - **Twitter**: [@aroy_2o](https://x.com/aroy_2o)
-- **Instagram**: [Abhijeet Roy](https://www.instagram.com/_abhijeet__roy/)
+- **Instagram**: [Abhijeet Roy](https://www.instagram.com/aroy_2o)
 
 ## Hobbies
 Apart from coding, I love playing and watching cricket.
