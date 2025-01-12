@@ -21,19 +21,27 @@ Hello! I'm Abhijeet Roy, a passionate front-end developer currently delving into
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+- **Databases**:
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - **Other Tools**:
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
   ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## GitHub Stats
 ![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeetroyyy&show_icons=true&theme=radical)
 ![Abhijeet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijeetroyyy&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetroyyy&layout=compact&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhijeetroyyy&theme=radical)
 **GitHub Pro**: Proud to be recognized as a GitHub Pro user!
 
 ## Projects
 - **[Full Stack Web Development](https://github.com/abhijeetroyyy/Full-Stack-Web-Development)**: A Journey of 120 Days of becoming a full stack web developer
 - **[TeachersReward](https://github.com/abhijeetroyyy/TeachersReward)**: A blockchain-based project to reward teachers with tokens and manage their balances.
+- **[Uber Clone](https://github.com/abhijeetroyyy/Uber-Clone)**: A full-stack Uber clone application built with React, Node.js, and MongoDB.
 
 ## Connect with Me
 - **LinkedIn**: [Abhijeet Roy](https://www.linkedin.com/in/aroy2o/)
@@ -41,6 +49,6 @@ Hello! I'm Abhijeet Roy, a passionate front-end developer currently delving into
 - **Instagram**: [Abhijeet Roy](https://www.instagram.com/aroy_2o)
 
 ## Hobbies
-Apart from coding, I love playing and watching cricket.
+Apart from coding, I love playing and watching cricket. I also enjoy reading tech blogs and exploring new technologies.
 
 Feel free to reach out for collaborations or just to connect!
