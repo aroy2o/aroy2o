@@ -36,12 +36,14 @@ Hello! I'm Abhijeet Roy, a passionate front-end developer currently delving into
 ![Abhijeet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijeetroyyy&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetroyyy&layout=compact&theme=radical)
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhijeetroyyy&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abhijeetroyyy&theme=radical)
 **GitHub Pro**: Proud to be recognized as a GitHub Pro user!
 
 ## Projects
 - **[Full Stack Web Development](https://github.com/abhijeetroyyy/Full-Stack-Web-Development)**: A Journey of 120 Days of becoming a full stack web developer
 - **[TeachersReward](https://github.com/abhijeetroyyy/TeachersReward)**: A blockchain-based project to reward teachers with tokens and manage their balances.
 - **[Uber Clone](https://github.com/abhijeetroyyy/Uber-Clone)**: A full-stack Uber clone application built with React, Node.js, and MongoDB.
+- **[Portfolio Website](https://github.com/abhijeetroyyy/Portfolio-Website)**: My personal portfolio website showcasing my projects and skills.
 
 ## Connect with Me
 - **LinkedIn**: [Abhijeet Roy](https://www.linkedin.com/in/aroy2o/)
@@ -49,6 +51,6 @@ Hello! I'm Abhijeet Roy, a passionate front-end developer currently delving into
 - **Instagram**: [Abhijeet Roy](https://www.instagram.com/aroy_2o)
 
 ## Hobbies
-Apart from coding, I love playing and watching cricket. I also enjoy reading tech blogs and exploring new technologies.
+Apart from coding, I love playing and watching cricket. I also enjoy reading tech blogs and exploring new technologies. Additionally, I have a keen interest in blockchain and decentralized applications.
 
 Feel free to reach out for collaborations or just to connect!
