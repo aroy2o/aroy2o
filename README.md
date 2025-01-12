@@ -35,8 +35,8 @@ Hello! I'm Abhijeet Roy, a passionate front-end developer currently delving into
 ![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeetroyyy&show_icons=true&theme=radical)
 ![Abhijeet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijeetroyyy&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetroyyy&layout=compact&theme=radical)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhijeetroyyy&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abhijeetroyyy&theme=radical)
+
 **GitHub Pro**: Proud to be recognized as a GitHub Pro user!
 
 ## Projects
