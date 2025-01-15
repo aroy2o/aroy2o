@@ -43,7 +43,7 @@ Hello! I'm Abhijeet Roy, a passionate front-end developer currently delving into
 - **[Full Stack Web Development](https://github.com/abhijeetroyyy/Full-Stack-Web-Development)**: A Journey of 120 Days of becoming a full stack web developer
 - **[TeachersReward](https://github.com/abhijeetroyyy/TeachersReward)**: A blockchain-based project to reward teachers with tokens and manage their balances.
 - **[Uber Clone](https://github.com/abhijeetroyyy/Uber-Clone)**: A full-stack Uber clone application built with React, Node.js, and MongoDB.
-- **[Portfolio Website](https://github.com/abhijeetroyyy/Portfolio-Website)**: My personal portfolio website showcasing my projects and skills.
+- **[Portfolio Website](https://aroy2o.vercel.app/)**: My personal portfolio website showcasing my projects and skills.
 
 ## Connect with Me
 - **LinkedIn**: [Abhijeet Roy](https://www.linkedin.com/in/aroy2o/)
