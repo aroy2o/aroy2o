@@ -3,8 +3,8 @@
 <div align="center">
     <a href="https://aroy2o.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/aroy2o/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://x.com/aroy_2o"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="mailto:abhijeetroy20@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
     <br/>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;BCA+Student;Cybersecurity+%26+AI+Enthusiast;Building+Tech+with+Purpose" alt="Typing SVG" />
     <br/>
@@ -81,7 +81,7 @@ const abhijeet = {
       <h3>📱 InstaGrab</h3>
       <p>Lightweight, privacy-focused Instagram media downloader with clean UI</p>
       <p><strong>Tech:</strong> JavaScript, Express, API Integration</p>
-      <a href="https://github.com/aroy2o/instagrab"><img src="https://img.shields.io/badge/-View_Project-2ea44f" alt="View Project"></a>
+      <a href="https://github.com/aroy2o/Insta-Downloader"><img src="https://img.shields.io/badge/-View_Project-2ea44f" alt="View Project"></a>
     </td>
   </tr>
   <tr>
@@ -91,12 +91,7 @@ const abhijeet = {
       <p><strong>Tech:</strong> Next.js, Firebase, Stripe, Tailwind CSS</p>
       <a href="https://github.com/aroy2o/craftconnect"><img src="https://img.shields.io/badge/-View_Project-2ea44f" alt="View Project"></a>
     </td>
-    <td width="50%">
-      <h3>🔒 SecurePassX</h3>
-      <p>Password manager with military-grade encryption and intuitive interface</p>
-      <p><strong>Tech:</strong> React Native, Node.js, Encryption Algorithms</p>
-      <a href="https://github.com/aroy2o/securepassx"><img src="https://img.shields.io/badge/-View_Project-2ea44f" alt="View Project"></a>
-    </td>
+    
   </tr>
 </table>
 </div>
@@ -117,8 +112,8 @@ const abhijeet = {
 <div align="center">
   <a href="https://aroy2o.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/aroy2o/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://twitter.com/aroy_2o"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://instagram.com/aroy_2o"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
