@@ -1,54 +1,68 @@
-# Abhijeet Roy
+# 👋 Hey there, I'm Abhijeet Roy!
 
-## About Me
-Hello! I'm Abhijeet Roy, a passionate front-end developer currently delving into backend technologies to become a full stack web developer. I am in my second year of BCA at Royal Global University. When I'm not coding, you can find me playing or watching cricket, which is my favorite hobby.
+🚀 A passionate Full Stack Developer & BCA student at Royal Global University, building impactful tech solutions using modern web technologies.
 
-## Skills
-- **Languages**:
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- **Frontend**:
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- **Backend**:
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-- **Databases**:
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- **Other Tools**:
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-  ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+---
 
-## GitHub Stats
-![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeetroyyy&show_icons=true&theme=radical)
-![Abhijeet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijeetroyyy&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetroyyy&layout=compact&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abhijeetroyyy&theme=radical)
+## 👨‍💻 About Me
 
-**GitHub Pro**: Proud to be recognized as a GitHub Pro user!
+- 🎓 Currently pursuing BCA (2nd Year)  
+- 💡 Founder of **GreenDukan** – an eco-conscious platform promoting sustainable living  
+- 💻 Skilled in frontend and backend development (MERN Stack)  
+- 📚 Currently exploring **Cybersecurity** and **AI**  
+- 🎯 Goal: To build meaningful, scalable, and sustainable tech that creates real-world impact
 
-## Projects
-- **[Full Stack Web Development](https://github.com/abhijeetroyyy/Full-Stack-Web-Development)**: A Journey of 120 Days of becoming a full stack web developer
-- **[TeachersReward](https://github.com/abhijeetroyyy/TeachersReward)**: A blockchain-based project to reward teachers with tokens and manage their balances.
-- **[Uber Clone](https://github.com/abhijeetroyyy/Uber-Clone)**: A full-stack Uber clone application built with React, Node.js, and MongoDB.
-- **[Portfolio Website](https://aroy2o.vercel.app/)**: My personal portfolio website showcasing my projects and skills.
+---
 
-## Connect with Me
-- **LinkedIn**: [Abhijeet Roy](https://www.linkedin.com/in/aroy2o/)
-- **Twitter**: [@aroy_2o](https://x.com/aroy_2o)
-- **Instagram**: [Abhijeet Roy](https://www.instagram.com/aroy_2o)
+## 🛠️ Tech Stack
 
-## Hobbies
-Apart from coding, I love playing and watching cricket. I also enjoy reading tech blogs and exploring new technologies. Additionally, I have a keen interest in blockchain and decentralized applications.
+**Languages & Frameworks:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 
-Feel free to reach out for collaborations or just to connect!
+**Databases & Tools:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+
+**Dev Tools & Platforms:**  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+
+---
+
+## 💼 Featured Projects
+
+### 🔹 [GreenDukan](https://github.com/aroy2o) *(In Development)*  
+A sustainability-focused platform that helps users check the eco-friendliness of products and suggests better alternatives.
+
+### 🔹 InstaGrab *(Instagram Downloader)*  
+A simple and fast media downloader for Instagram that allows users to download photos and videos directly.
+
+### 🔹 CraftConnect  
+A platform built for artisans to showcase and sell their work transparently using modern web tech.
+
+---
+
+## 📈 GitHub Stats
+
+![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=aroy2o&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aroy2o&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [Abhijeet Roy](https://www.linkedin.com/in/abhijeet-roy-0405/)  
+- Portfolio: *Coming Soon!*  
+- Email: [abhijeetroyofficial@gmail.com](mailto:abhijeetroyofficial@gmail.com)
+
+---
+
+*Built with ❤️ by Abhijeet Roy*
